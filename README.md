@@ -22,7 +22,7 @@ In diesem Projekt wird der deutsche Gebrauchtwagenmarkt anhand eines Kaggle-Date
 ✔ Erstellung von Preisvorhersagemodellen mit Machine Learning
 
 ---
-### Beispiel für die Preisvorhersage-Anwendung
+### 🚗 Beispiel für die Preisvorhersage-Anwendung
 
 Hier ist ein Bild, das die Anwendung in Aktion demonstriert:
 
@@ -107,8 +107,11 @@ python app.py
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
 Preisentwicklung: Neuere Fahrzeuge (Baujahr 2019–2023) haben stabilere Preise.
+
 Beliebteste Marken: Volkswagen, Audi und Mercedes dominieren den Markt.
+
 Antriebsarten: Elektroautos gewinnen an Bedeutung, aber Benzin- und Dieselfahrzeuge sind nach wie vor die häufigsten.
+
 ---
 ### 🚀 Fazit & Ausblick
 ✅ Fazit: Diese Analyse bietet wertvolle Einblicke in den deutschen Gebrauchtwagenmarkt und zeigt, wie Machine Learning genutzt werden kann, um Fahrzeugpreise vorherzusagen.
