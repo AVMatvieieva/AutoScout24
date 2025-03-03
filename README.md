@@ -7,7 +7,7 @@ Datenanalyse basierend auf dem Kaggle-Datensatz.
 
 ## 📌 Projektbeschreibung
 
-In diesem Projekt wird der deutsche Gebrauchtwagenmarkt anhand eines Kaggle-Datensatzes untersucht. Die Analyse umfasst die Preisdynamik, Fahrzeugeigenschaften und Markttrends. Darüber hinaus wurde eine Webanwendung zur Preisvorhersage basierend auf dem Machine Learning-Modell *RandomForest* entwickelt.
+In diesem Projekt wird der deutsche Gebrauchtwagenmarkt anhand eines Kaggle-Datensatzes untersucht. Die Analyse umfasst die Preisdynamik, Fahrzeugeigenschaften und Markttrends. Darüber hinaus wurde eine Webanwendung zur Preisvorhersage basierend auf dem Machine Learning-Modell *RandomForest* entwickelt. Zur Visualisierung der Forschungsergebnisse wurde die Anwendung **Power BI** verwendet.
 
 ---
 
@@ -102,9 +102,10 @@ Sobald die Daten vorbereitet und das Modell trainiert ist, können Sie die Anwen
 python app.py
 ```
 ---
-## 📈 Ergebnisse der Analyse
+## 📈 Visualisation der Analyse mit Power BI
 ![AutoScout24 Automotive Market Review Вashboard](DashboardScreen.png))
 [https://github.com/AVMatvieieva/AutoScout24/blob/main/AutoScout24%20Automotive%20Market%20Review.pbit](https://github.com/AVMatvieieva/AutoScout24/blob/main/AutoScout24%20Automotive%20Market%20Review.pbit)
+
 
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
@@ -119,4 +120,3 @@ Antriebsarten: Elektrofahrzeuge gewinnen mit 2,5 % an Bedeutung, Benzin- und Die
 ✅ Fazit: Diese Analyse bietet wertvolle Einblicke in den deutschen Gebrauchtwagenmarkt und zeigt, wie Machine Learning genutzt werden kann, um Fahrzeugpreise vorherzusagen.
 
 
-🔮 Ausblick: Weitere Modelle können auf Basis zusätzlicher Features und detaillierterer Datensätze optimiert werden, um noch genauere Vorhersagen zu treffen.
