@@ -13,10 +13,10 @@ In diesem Projekt wird der deutsche Gebrauchtwagenmarkt anhand eines Kaggle-Date
 
 ## 🎯 Projektziele
 
-✔ **Gebrauchtwagenpreisanalyse in Deutschland**  
-✔ **Überprüfung der numerischen und kategorischen Merkmale des Autos** (Marke, Modell, Kilometerstand, Baujahr)  
-✔ **Visualisierung von Markttrends** (z.B. Preisdynamik, Antriebsarten)  
-✔ **Erstellung von Preisvorhersagemodellen mit Machine Learning**
+✔ Gebrauchtwagenpreisanalyse in Deutschland 
+✔ Überprüfung der numerischen und kategorischen Merkmale des Autos (Marke, Modell, Kilometerstand, Baujahr)  
+✔ Visualisierung von Markttrends (z.B. Preisdynamik, Antriebsarten)  
+✔ Erstellung von Preisvorhersagemodellen mit Machine Learning
 ---
 ### Beispiel für die Preisvorhersage-Anwendung
 
