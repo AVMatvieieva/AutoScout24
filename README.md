@@ -102,7 +102,7 @@ Sobald die Daten vorbereitet und das Modell trainiert ist, können Sie die Anwen
 python app.py
 ```
 ---
-### 📈 Ergebnisse der Analyse
+## 📈 Ergebnisse der Analyse
 
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
@@ -113,7 +113,7 @@ Beliebteste Marken: Volkswagen, Audi und Mercedes dominieren den Markt.
 Antriebsarten: Elektroautos gewinnen an Bedeutung, aber Benzin- und Dieselfahrzeuge sind nach wie vor die häufigsten.
 
 ---
-### 🚀 Fazit & Ausblick
+## 🚀 Fazit & Ausblick
 ✅ Fazit: Diese Analyse bietet wertvolle Einblicke in den deutschen Gebrauchtwagenmarkt und zeigt, wie Machine Learning genutzt werden kann, um Fahrzeugpreise vorherzusagen.
 
 
