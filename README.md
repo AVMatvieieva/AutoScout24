@@ -17,6 +17,12 @@ In diesem Projekt wird der deutsche Gebrauchtwagenmarkt anhand eines Kaggle-Date
 ✔ **Überprüfung der numerischen und kategorischen Merkmale des Autos** (Marke, Modell, Kilometerstand, Baujahr)  
 ✔ **Visualisierung von Markttrends** (z.B. Preisdynamik, Antriebsarten)  
 ✔ **Erstellung von Preisvorhersagemodellen mit Machine Learning**
+---
+### Beispiel für die Preisvorhersage-Anwendung
+
+Hier ist ein Bild, das die Anwendung in Aktion demonstriert:
+
+![Auto-Preis Vorhersage](main/screen.png))
 
 ---
 
@@ -69,8 +75,8 @@ Die Fahrzeugdaten stammen aus dem Kaggle-Datensatz:
 1. **Repository klonen:**
 
 ```bash
-git clone https://github.com/AVMatvieieva/data-science-portfolio/tree/main/AutoScout24
-cd dein-repository
+git clone https://github.com/AVMatvieieva/data-science-portfolio/tree/main/AutoScout24.git
+cd AutoScout24
 ```
 Um die Anwendung zu starten, müssen Sie einige Schritte ausführen:
 
@@ -92,13 +98,15 @@ Sobald die Daten vorbereitet und das Modell trainiert ist, können Sie die Anwen
 python app.py
 ```
 ---
-📈 Ergebnisse der Analyse
+### 📈 Ergebnisse der Analyse
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
 Preisentwicklung: Neuere Fahrzeuge (Baujahr 2019–2023) haben stabilere Preise.
 Beliebteste Marken: Volkswagen, Audi und Mercedes dominieren den Markt.
 Antriebsarten: Elektroautos gewinnen an Bedeutung, aber Benzin- und Dieselfahrzeuge sind nach wie vor die häufigsten.
-🚀 Fazit & Ausblick
+---
+### 🚀 Fazit & Ausblick
 ✅ Fazit: Diese Analyse bietet wertvolle Einblicke in den deutschen Gebrauchtwagenmarkt und zeigt, wie Machine Learning genutzt werden kann, um Fahrzeugpreise vorherzusagen.
+
 
 🔮 Ausblick: Weitere Modelle können auf Basis zusätzlicher Features und detaillierterer Datensätze optimiert werden, um noch genauere Vorhersagen zu treffen.
