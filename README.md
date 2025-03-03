@@ -103,14 +103,16 @@ python app.py
 ```
 ---
 ## 📈 Ergebnisse der Analyse
+![AutoScout24 Automotive Market Review Вashboard](DashboardScreen.png))
+[https://github.com/AVMatvieieva/AutoScout24/blob/main/AutoScout24%20Automotive%20Market%20Review.pbit](https://github.com/AVMatvieieva/AutoScout24/blob/main/AutoScout24%20Automotive%20Market%20Review.pbit)
 
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
-Preisentwicklung: Neuere Fahrzeuge (Baujahr 2019–2023) haben stabilere Preise.
+Preisentwicklung: Neuere Fahrzeuge (Baujahr 2019–2021) haben stabilere Preise.
 
-Beliebteste Marken: Volkswagen, Audi und Mercedes dominieren den Markt.
+Beliebteste Marken: Volkswagen, Opel, Ford, Skoda, Renault, Audi, BMW und Mercedes dominieren den Markt.
 
-Antriebsarten: Elektroautos gewinnen an Bedeutung, aber Benzin- und Dieselfahrzeuge sind nach wie vor die häufigsten.
+Antriebsarten: Elektrofahrzeuge gewinnen mit 2,5 % an Bedeutung, Benzin- und Dieselfahrzeuge sind mit 62,2 % bzw. 32,85 % jedoch weiterhin am weitesten verbreitet.
 
 ---
 ## 🚀 Fazit & Ausblick
