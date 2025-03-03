@@ -72,6 +72,26 @@ Die Fahrzeugdaten stammen aus dem Kaggle-Datensatz:
 git clone https://github.com/AVMatvieieva/data-science-portfolio/tree/main/AutoScout24
 cd dein-repository
 ```
+Um die Anwendung zu starten, müssen Sie einige Schritte ausführen:
+
+2. **Datenvorbereitung / Modelltraining / Starten der Anwendung**
+
+ Führen Sie das Skript aus, um die Daten vorzubereiten. 
+
+ ```bash
+ python data_preparation.py
+```
+Nachdem Sie die Daten vorbereitet haben, trainieren Sie das Modell, indem Sie das folgende Skript ausführen.
+```bash
+python train_model.py
+```
+
+Sobald die Daten vorbereitet und das Modell trainiert ist, können Sie die Anwendung selbst ausführen:
+
+```bash
+Python-App.py
+```
+---
 📈 Ergebnisse der Analyse
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
