@@ -22,7 +22,7 @@ In diesem Projekt wird der deutsche Gebrauchtwagenmarkt anhand eines Kaggle-Date
 
 Hier ist ein Bild, das die Anwendung in Aktion demonstriert:
 
-![Auto-Preis Vorhersage](main/screen.png))
+![Auto-Preis Vorhersage](screen.png))
 
 ---
 
