@@ -99,6 +99,7 @@ python app.py
 ```
 ---
 ### 📈 Ergebnisse der Analyse
+
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
 Preisentwicklung: Neuere Fahrzeuge (Baujahr 2019–2023) haben stabilere Preise.
