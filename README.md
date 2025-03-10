@@ -114,13 +114,13 @@ Preisentwicklung: Neuere Fahrzeuge (Baujahr 2019–2021) haben stabilere Preise.
 
 Beliebteste Marken: Volkswagen, Opel, Ford, Skoda, Renault, Audi, BMW und Mercedes dominieren den Markt.
 
-Antriebsarten: Elektrofahrzeuge gewinnen mit 2,5 % an Bedeutung, Benzin- und Dieselfahrzeuge sind mit 62,2 % bzw. 32,85 % jedoch weiterhin am weitesten verbreitet.
+Antriebsarten: Elektrofahrzeuge gewinnen mit 2,5 % an Bedeutung, Benzin- und Dieselfahrzeuge sind mit 62,2 % bzw. 32,85 % jedoch weiterhin am weitesten verbreitet. 
 
 ---
-## 🚀 Fazit & Ausblick
+## 🚀 Fazit & Ausblick:
 
 ✅ Fazit: Diese Analyse bietet wertvolle Einblicke in den deutschen Gebrauchtwagenmarkt und zeigt, wie Machine Learning genutzt werden kann, um Fahrzeugpreise vorherzusagen.
----
+
 ## ✍️ Autor
 
 Anna Matvieieva
