@@ -118,6 +118,7 @@ Antriebsarten: Elektrofahrzeuge gewinnen mit 2,5 % an Bedeutung, Benzin- und Die
 
 ---
 ## 🚀 Fazit & Ausblick
+
 ✅ Fazit: Diese Analyse bietet wertvolle Einblicke in den deutschen Gebrauchtwagenmarkt und zeigt, wie Machine Learning genutzt werden kann, um Fahrzeugpreise vorherzusagen.
 ---
 ## ✍️ Autor
