@@ -1,5 +1,6 @@
 # AutoScout24
 # 🚗 Fahrzeuganalyse von AutoScout24 — Case Study mit Machine Learning
+![](https://github.com/AVMatvieieva/AutoScout24/blob/main/images.png)
 
 Datenanalyse basierend auf dem Kaggle-Datensatz.
 
